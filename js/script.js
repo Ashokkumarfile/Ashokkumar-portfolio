@@ -58,7 +58,7 @@ window.onscroll = () => {
         reset: true,
         distance: '20px',
         duration: 2000,
-        delay: 400
+        delay: 200
 
      });
 
